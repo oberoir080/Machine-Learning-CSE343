@@ -1,7 +1,7 @@
 # ML-Assignments
 
 Each assignment folder contains code, data, and a detailed report.  
-> **Note:** This project was completed as part of the coursework for Machine Learning (CSE343) at IIIT Delhi, taught by Dr. Jainendra Shukla in the Monsoon 2024 semester.
+> **Note:** These assignments were completed as part of the coursework for Machine Learning (CSE343) at IIIT Delhi, taught by Dr. Jainendra Shukla in the Monsoon 2024 semester.
 
 ---
 
